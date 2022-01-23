@@ -1,3 +1,3 @@
 select *
-from HW.hello_world_1
+from HW.hello_world
 where weekday <> 1;
